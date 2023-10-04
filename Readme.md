@@ -12,7 +12,7 @@ There are two open-source code used in my project, and I store them in the googl
 **Image generate code:**
  https://colab.research.google.com/drive/11Yr58NQI1c3hKZXN5E3jwMNuEP0TMwLD
 
-**MagFace git repo: **
+**MagFace git repo:**
  https://github.com/IrvingMeng/MagFace/tree/main
 When using the MagFace to calculate scores, use the pair list in the MagFace File folder, there is a brief introduction of the use of magface.
 
